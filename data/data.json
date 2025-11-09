@@ -1,0 +1,117 @@
+{
+  "mercados" : [
+    {
+      "mercado_id" : "001",
+      "nombre_comercial" : "",
+      "tipo_negocio" : "",
+      "direccion" : "",
+      "coordenadas_gps" : {"latitud" : "", "longitud" : ""},
+      "evidencia": "",
+      "cerca_del_hospital": true,
+      "productos_hospitalarios" : [
+        {
+          "nombre": "Jabón de baño infantil",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Champú suave",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Toallitas humedas",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Detergente para ropa",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Pasta dental",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Agua embotellada",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Galletas Saladas",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Galletas Dulces",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Jugo Natural",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Gel desinfectante",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        },
+        {
+          "nombre": "Pasta para bocaditos",
+          "precio": "",
+          "moneda": "CUP",
+          "unidad": "unidad",
+          "origen": "",
+          "marca" : "",
+          "presentacion": ""
+        }
+
+      ],
+      "fecha_recoleccion" : "2025-11-10"
+        
+    }
+  ]
+}

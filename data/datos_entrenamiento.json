@@ -1,0 +1,3436 @@
+{
+  "hospital": {
+    "nombre": "Hospital Pediátrico Juan Manuel Márquez",
+    "coordenadas": {
+      "lat": 23.1136,
+      "lon": -82.3666
+    }
+  },
+  "tasa_cambio_semana": {
+    "USD": 299.3,
+    "MLC": 279.9,
+    "EUR": 312.0
+  },
+  "mipymes": [
+    {
+      "mipyme_id": "MYP001",
+      "direccion": "Calle 95 entre A y B, La Habana",
+      "region": "Cerro",
+      "coordenadas": {
+        "lat": 23.122414,
+        "lon": -82.361295
+      },
+      "distancia_al_hospital_km": 0.92,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 336.82,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 115.32,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 523.51,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 416.36,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 373.22,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 160.3,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 419.01,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 104.13,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 225.96,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 488.49,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP001"
+    },
+    {
+      "mipyme_id": "MYP002",
+      "direccion": "Calle 41 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.12299,
+        "lon": -82.386117
+      },
+      "distancia_al_hospital_km": 2.63,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 365.73,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 62.98,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 170.6,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 501.67,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 564.31,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 111.94,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 230.13,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 535.81,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 329.28,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 478.69,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP002"
+    },
+    {
+      "mipyme_id": "MYP003",
+      "direccion": "Calle 13 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.121517,
+        "lon": -82.360686
+      },
+      "distancia_al_hospital_km": 2.77,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 234.61,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 565.61,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 368.99,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 590.89,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 237.99,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 308.8,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 371.06,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 319.04,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 312.26,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 400.34,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP003"
+    },
+    {
+      "mipyme_id": "MYP004",
+      "direccion": "Calle 95 entre A y B, La Habana",
+      "region": "Marianao",
+      "coordenadas": {
+        "lat": 23.112673,
+        "lon": -82.376966
+      },
+      "distancia_al_hospital_km": 1.47,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 384.71,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 92.06,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 509.6,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 512.19,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 388.16,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 111.84,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 428.51,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 481.16,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 417.92,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 61.28,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP004"
+    },
+    {
+      "mipyme_id": "MYP005",
+      "direccion": "Calle 93 entre A y B, La Habana",
+      "region": "Cerro",
+      "coordenadas": {
+        "lat": 23.129087,
+        "lon": -82.377976
+      },
+      "distancia_al_hospital_km": 2.49,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 346.08,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 249.14,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 586.44,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 300.95,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 430.18,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 469.87,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 519.49,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 599.37,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 136.25,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 581.06,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP005"
+    },
+    {
+      "mipyme_id": "MYP006",
+      "direccion": "Calle 25 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.121772,
+        "lon": -82.35971
+      },
+      "distancia_al_hospital_km": 1.87,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 460.24,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 101.18,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 457.03,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 178.88,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 384.17,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 400.8,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 239.23,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 414.46,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 190.14,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 462.53,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP006"
+    },
+    {
+      "mipyme_id": "MYP007",
+      "direccion": "Calle 5 entre A y B, La Habana",
+      "region": "Marianao",
+      "coordenadas": {
+        "lat": 23.110462,
+        "lon": -82.383545
+      },
+      "distancia_al_hospital_km": 1.47,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 157.31,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 125.18,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 557.21,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 510.25,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 208.52,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 111.09,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 414.36,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 393.56,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 324.09,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 577.71,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP007"
+    },
+    {
+      "mipyme_id": "MYP008",
+      "direccion": "Calle 76 entre A y B, La Habana",
+      "region": "Marianao",
+      "coordenadas": {
+        "lat": 23.122158,
+        "lon": -82.349256
+      },
+      "distancia_al_hospital_km": 0.89,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 447.76,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 208.65,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 186.73,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 472.28,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 359.84,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 101.9,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 523.22,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 341.81,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 84.11,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 593.93,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP008"
+    },
+    {
+      "mipyme_id": "MYP009",
+      "direccion": "Calle 69 entre A y B, La Habana",
+      "region": "Marianao",
+      "coordenadas": {
+        "lat": 23.117138,
+        "lon": -82.349375
+      },
+      "distancia_al_hospital_km": 1.43,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 188.78,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 328.36,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 514.03,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 545.65,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 130.16,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 336.77,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 581.85,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 528.91,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 298.91,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 176.74,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP009"
+    },
+    {
+      "mipyme_id": "MYP010",
+      "direccion": "Calle 29 entre A y B, La Habana",
+      "region": "Plaza",
+      "coordenadas": {
+        "lat": 23.123763,
+        "lon": -82.355317
+      },
+      "distancia_al_hospital_km": 2.96,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 497.74,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 45.69,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 52.34,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 474.0,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 297.29,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 105.45,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 178.84,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 269.42,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 571.71,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 476.97,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP010"
+    },
+    {
+      "mipyme_id": "MYP011",
+      "direccion": "Calle 43 entre A y B, La Habana",
+      "region": "Marianao",
+      "coordenadas": {
+        "lat": 23.1112,
+        "lon": -82.377528
+      },
+      "distancia_al_hospital_km": 0.89,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 320.84,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 527.1,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 224.73,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 524.94,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 317.62,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 350.25,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 494.26,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 487.39,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 378.17,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 578.43,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP011"
+    },
+    {
+      "mipyme_id": "MYP012",
+      "direccion": "Calle 82 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.107216,
+        "lon": -82.350941
+      },
+      "distancia_al_hospital_km": 0.88,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 319.17,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 125.31,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 183.59,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 248.72,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 457.57,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 396.74,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 169.7,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 218.33,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 140.87,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 176.44,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP012"
+    },
+    {
+      "mipyme_id": "MYP013",
+      "direccion": "Calle 2 entre A y B, La Habana",
+      "region": "Marianao",
+      "coordenadas": {
+        "lat": 23.125086,
+        "lon": -82.349401
+      },
+      "distancia_al_hospital_km": 1.95,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 467.15,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 119.49,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 211.88,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 427.84,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 512.51,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 379.92,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 342.86,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 54.03,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 238.91,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 520.92,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP013"
+    },
+    {
+      "mipyme_id": "MYP014",
+      "direccion": "Calle 10 entre A y B, La Habana",
+      "region": "Cerro",
+      "coordenadas": {
+        "lat": 23.115116,
+        "lon": -82.382687
+      },
+      "distancia_al_hospital_km": 1.02,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 291.3,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 355.72,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 367.32,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 119.97,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 169.54,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 418.13,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 490.81,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 327.74,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 134.12,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 197.01,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP014"
+    },
+    {
+      "mipyme_id": "MYP015",
+      "direccion": "Calle 20 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.104559,
+        "lon": -82.376622
+      },
+      "distancia_al_hospital_km": 0.57,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 65.36,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 572.37,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 171.57,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 581.09,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 354.98,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 88.06,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 108.84,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 579.41,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 356.81,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 367.71,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP015"
+    },
+    {
+      "mipyme_id": "MYP016",
+      "direccion": "Calle 12 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.103019,
+        "lon": -82.368872
+      },
+      "distancia_al_hospital_km": 2.71,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 64.71,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 288.57,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 119.17,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 570.55,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 258.53,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 65.16,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 298.26,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 372.92,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 161.93,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 243.02,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP016"
+    },
+    {
+      "mipyme_id": "MYP017",
+      "direccion": "Calle 3 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.105568,
+        "lon": -82.364245
+      },
+      "distancia_al_hospital_km": 0.75,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 551.76,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 175.85,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 291.07,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 87.08,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 333.1,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 516.58,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 331.81,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 168.92,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 450.14,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 174.26,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP017"
+    },
+    {
+      "mipyme_id": "MYP018",
+      "direccion": "Calle 87 entre A y B, La Habana",
+      "region": "Cerro",
+      "coordenadas": {
+        "lat": 23.127989,
+        "lon": -82.345499
+      },
+      "distancia_al_hospital_km": 0.69,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 215.65,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 575.87,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 176.39,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 167.34,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 545.91,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 51.81,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 280.64,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 276.31,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 242.23,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 545.46,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP018"
+    },
+    {
+      "mipyme_id": "MYP019",
+      "direccion": "Calle 51 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.10623,
+        "lon": -82.348014
+      },
+      "distancia_al_hospital_km": 2.4,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 309.23,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 526.13,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 483.23,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 301.5,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 196.21,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 379.44,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 508.01,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 469.21,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 451.24,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 181.25,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP019"
+    },
+    {
+      "mipyme_id": "MYP020",
+      "direccion": "Calle 98 entre A y B, La Habana",
+      "region": "Plaza",
+      "coordenadas": {
+        "lat": 23.123156,
+        "lon": -82.34453
+      },
+      "distancia_al_hospital_km": 2.42,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 58.61,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 61.33,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 440.75,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 212.35,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 596.09,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 169.87,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 297.08,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 212.38,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 352.93,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 140.18,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP020"
+    },
+    {
+      "mipyme_id": "MYP021",
+      "direccion": "Calle 61 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.117643,
+        "lon": -82.372269
+      },
+      "distancia_al_hospital_km": 1.22,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 254.17,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 580.44,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 518.69,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 144.92,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 177.83,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 141.67,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 72.75,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 577.42,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 540.54,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 461.58,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP021"
+    },
+    {
+      "mipyme_id": "MYP022",
+      "direccion": "Calle 92 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.125325,
+        "lon": -82.387158
+      },
+      "distancia_al_hospital_km": 2.39,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 59.69,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 461.3,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 188.52,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 591.65,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 579.39,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 92.44,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 476.82,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 110.64,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 434.11,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 545.4,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP022"
+    },
+    {
+      "mipyme_id": "MYP023",
+      "direccion": "Calle 88 entre A y B, La Habana",
+      "region": "Marianao",
+      "coordenadas": {
+        "lat": 23.126228,
+        "lon": -82.377615
+      },
+      "distancia_al_hospital_km": 1.5,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 476.21,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 204.95,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 473.11,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 81.19,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 222.35,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 577.34,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 368.26,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 374.96,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 408.47,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 299.83,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP023"
+    },
+    {
+      "mipyme_id": "MYP024",
+      "direccion": "Calle 44 entre A y B, La Habana",
+      "region": "Plaza",
+      "coordenadas": {
+        "lat": 23.127749,
+        "lon": -82.384659
+      },
+      "distancia_al_hospital_km": 2.51,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 384.14,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 367.92,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 164.02,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 145.24,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 431.69,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 277.19,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 454.89,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 336.14,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 384.34,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 568.39,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP024"
+    },
+    {
+      "mipyme_id": "MYP025",
+      "direccion": "Calle 18 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.127292,
+        "lon": -82.350182
+      },
+      "distancia_al_hospital_km": 2.29,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 596.78,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 103.79,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 265.61,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 256.06,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 524.83,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 424.66,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 545.89,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 137.49,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 434.99,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 357.97,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP025"
+    },
+    {
+      "mipyme_id": "MYP026",
+      "direccion": "Calle 35 entre A y B, La Habana",
+      "region": "Cerro",
+      "coordenadas": {
+        "lat": 23.123092,
+        "lon": -82.378086
+      },
+      "distancia_al_hospital_km": 1.97,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 213.99,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 86.72,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 327.83,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 332.0,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 179.19,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 417.39,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 248.03,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 236.67,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 125.11,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 448.01,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP026"
+    },
+    {
+      "mipyme_id": "MYP027",
+      "direccion": "Calle 14 entre A y B, La Habana",
+      "region": "Cerro",
+      "coordenadas": {
+        "lat": 23.108878,
+        "lon": -82.384814
+      },
+      "distancia_al_hospital_km": 1.55,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 596.12,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 211.37,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 587.43,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 476.24,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 511.92,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 588.4,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 440.29,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 228.2,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 317.83,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 315.2,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP027"
+    },
+    {
+      "mipyme_id": "MYP028",
+      "direccion": "Calle 9 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.115863,
+        "lon": -82.373688
+      },
+      "distancia_al_hospital_km": 1.26,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 409.69,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 432.24,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 347.25,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 468.16,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 432.71,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 201.43,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 151.56,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 310.23,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 194.53,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 120.63,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP028"
+    },
+    {
+      "mipyme_id": "MYP029",
+      "direccion": "Calle 85 entre A y B, La Habana",
+      "region": "Cerro",
+      "coordenadas": {
+        "lat": 23.102825,
+        "lon": -82.354854
+      },
+      "distancia_al_hospital_km": 2.97,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 301.19,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 415.07,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 531.61,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 86.86,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 547.34,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 441.44,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 386.7,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 335.25,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 215.13,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 105.58,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP029"
+    },
+    {
+      "mipyme_id": "MYP030",
+      "direccion": "Calle 6 entre A y B, La Habana",
+      "region": "Vedado",
+      "coordenadas": {
+        "lat": 23.124968,
+        "lon": -82.388614
+      },
+      "distancia_al_hospital_km": 1.64,
+      "fecha_recoleccion": "2025-11-09",
+      "productos_hospitalarios": [
+        {
+          "nombre": "Shampoo suave",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "ml",
+          "origen": "importado",
+          "precio_cup": 56.31,
+          "peso_neto": 200.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Jabón",
+          "categoria": "higiene",
+          "marca": "Dove Baby",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 47.8,
+          "peso_neto": null,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pasta dental",
+          "categoria": "higiene",
+          "marca": "Colgate Kids",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 246.36,
+          "peso_neto": 50.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Galletas dulces ",
+          "categoria": "Galletas dulces",
+          "marca": "",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 459.71,
+          "peso_neto": 100.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Jugos",
+          "categoria": "merienda",
+          "marca": "Del Valle",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 95.74,
+          "peso_neto": 330.0,
+          "producto_infantil": false
+        },
+        {
+          "nombre": "Compotas",
+          "categoria": "merienda",
+          "marca": "Nestlé",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 70.08,
+          "peso_neto": 120.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Pañales",
+          "categoria": "higiene",
+          "marca": "Huggies",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 87.86,
+          "peso_neto": 10,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Toallitas húmedas",
+          "categoria": "higiene",
+          "marca": "Johnson's",
+          "unidad": "unidad",
+          "origen": "importado",
+          "precio_cup": 185.0,
+          "peso_neto": 20,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Crema protectora",
+          "categoria": "higiene",
+          "marca": "Bepanthen",
+          "unidad": "g",
+          "origen": "importado",
+          "precio_cup": 326.87,
+          "peso_neto": 30.0,
+          "producto_infantil": true
+        },
+        {
+          "nombre": "Agua embotellada",
+          "categoria": "merienda",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "origen": "nacional",
+          "precio_cup": 300.11,
+          "peso_neto": 500.0,
+          "producto_infantil": false
+        }
+      ],
+      "evidencia": "https://evidencia.mipyme/MYP030"
+    }
+  ]
+}
