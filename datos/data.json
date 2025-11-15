@@ -1,0 +1,4978 @@
+{
+  "mimpymes": [
+    {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+
+
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    },
+      {
+      "id": "m001",
+      "direccion": "tal tal tal",
+      "localizacion": { "latitud": 23.1345, "longitud": -82.3647 },
+      "evidencia": "img/m001.JPG",
+      "cercano_hospital": true,
+      "fecha_recopilacion": "2025-10-31",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "marca": "A",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "gramos",
+          "tipo": "chocolate",
+          "importado": true
+        },
+        {
+          "nombre": "salsa_mayonesa",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "",
+          "importado": false
+        },
+        {
+          "nombre": "pastas_bocaditos",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "pollo",
+          "importado": false
+        },
+        {
+          "nombre": "compotas",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "frutas mixtas",
+          "importado": false
+        },
+        {
+          "nombre": "jugo_nectar_fruta",
+          "marca": "Dona Delicias",
+          "precio": 800,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "mango",
+          "importado": false
+        },
+        {
+          "nombre": "yogur",
+          "marca": "Bonal",
+          "precio": 100,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "marca": "Ciego Montero",
+          "precio": 50,
+          "peso_neto": 500,
+          "unidad": "ml",
+          "tipo": "natural",
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "marca": "Suave",
+          "precio": 600,
+          "peso_neto": 4,
+          "unidad": "rollos",
+          "tipo": "doble hoja",
+          "importado": false
+        },
+        {
+          "nombre": "culeros_desechables",
+          "marca": "Bebin",
+          "precio": 1500,
+          "peso_neto": 20,
+          "unidad": "unidades",
+          "tipo": "talla M",
+          "importado": true
+        },
+        {
+          "nombre": "jabon",
+          "marca": "Nacar",
+          "precio": 300,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "neutro",
+          "importado": false
+        },
+        {
+          "nombre": "shampoo_bebe",
+          "marca": "Johnson",
+          "precio": 1200,
+          "peso_neto": 200,
+          "unidad": "ml",
+          "tipo": "suave",
+          "importado": true
+        },
+        {
+          "nombre": "crema_bebe",
+          "marca": "Johnson",
+          "precio": 1400,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "hidratante",
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "marca": "Colgate",
+          "precio": 900,
+          "peso_neto": 100,
+          "unidad": "ml",
+          "tipo": "menta",
+          "importado": true
+        },
+        {
+          "nombre": "gelatina",
+          "marca": "Gelly",
+          "precio": 200,
+          "peso_neto": 100,
+          "unidad": "gramos",
+          "tipo": "fresa",
+          "importado": false
+        },
+        {
+          "nombre": "toallas_humedas",
+          "marca": "Bebin",
+          "precio": 700,
+          "peso_neto": 50,
+          "unidad": "unidades",
+          "tipo": "suave",
+          "importado": true
+        }
+      ]
+    }
+
+
+
+  ],
+
+  "tasas_cambio_USD_fecha": {
+    "2025-10-31": 490,
+    "2025-11-1": 480,
+    "2025-11-2": 500
+  },
+
+  "tiendas_dolar": [
+    {
+      "id": "CIMEX",
+      "productos": [
+        {
+          "nombre": "galleticas_dulces",
+          "precio": 2.50,
+          "peso_neto": 300,
+          "importado": false
+        },
+        {
+          "nombre": "agua_embotellada",
+          "precio": 1.00,
+          "peso_neto": 500,
+          "importado": false
+        },
+        {
+          "nombre": "papel_sanitario",
+          "precio": 3.00,
+          "peso_neto": 4,
+          "importado": true
+        },
+        {
+          "nombre": "pasta_dientes",
+          "precio": 2.20,
+          "peso_neto": 100,
+          "importado": true
+        }
+      ]
+    }
+  ]
+}
