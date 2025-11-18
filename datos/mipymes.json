@@ -1,0 +1,494 @@
+
+[ 
+{
+    "store_id": "MP001",
+    "name": "La Esperanza",
+    "address": "Calle Patria #156 entre Vista Alegre y Mayía Rodríguez, Cerro",
+    "region": "La Habana",
+    "coordinates": {
+      "lat": 23.1258,
+      "lon": -82.3489
+    },
+    "store_type": "mipyme",
+    "currency": "CUP",
+    "distance_to_hospital_km": 0.5,
+    "collection_date": "2024-11-10",
+    "products": [
+      {
+        "name": "Compota de manzana",
+        "category": "compotas",
+        "age_group": "12-24",
+        "brand": "Naturchild",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 95.00,
+        "net_weight": 100.0
+      },
+      {
+        "name": "Mermelada de guayaba",
+        "category": "mermeladas",
+        "age_group": "12-24",
+        "brand": "Frutas del Campo",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 75.00,
+        "net_weight": 200.0
+      },
+      {
+        "name": "Pechuga de pollo",
+        "category": "carnes",
+        "age_group": "12-24",
+        "brand": "Avícola Nacional",
+        "unit": "kg",
+        "origin": "nacional",
+        "price_cup": 320.00,
+        "net_weight": 1.0
+      },
+      {
+        "name": "Huevos blancos",
+        "category": "huevos",
+        "age_group": "12-24",
+        "brand": "Granja Feliz",
+        "unit": "unidad",
+        "origin": "nacional",
+        "price_cup": 10.00,
+        "net_weight": null
+      },
+      {
+        "name": "Huevos blancos",
+        "category": "huevos",
+        "age_group": "12-24",
+        "brand": "Granja Feliz",
+        "unit": "unidad",
+        "origin": "nacional",
+        "price_cup": 15.00,
+        "net_weight": null
+      },
+      {
+        "name": "Pañales suaves",
+        "category": "pañales",
+        "age_group": "12-24",
+        "brand": "BabySoft",
+        "unit": "unidad",
+        "origin": "importado",
+        "price_cup": 25.00,
+        "net_weight": null
+      }
+    ],
+    "evidence_path": "evidence/MP001.jpg"
+  },
+
+  {
+    "store_id": "MP007",
+    "name": "El Bazar del Niño",
+    "address": "Calle Patria #208 entre Vista Alegre y Mayía Rodríguez, Cerro",
+    "region": "La Habana",
+    "coordinates": {
+      "lat": 23.1225,
+      "lon": -82.3512
+    },
+    "store_type": "mipyme",
+    "currency": "CUP",
+    "distance_to_hospital_km": 0.3,
+    "collection_date": "2024-11-16",
+    "products": [
+      {
+        "name": "Compota de plátano y mango",
+        "category": "compotas",
+        "age_group": "12-24",
+        "brand": "Mumi",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 105.00,
+        "net_weight": 105.0
+      },
+      {
+        "name": "Mermelada de fruta bomba",
+        "category": "mermeladas",
+        "age_group": "12-24",
+        "brand": "Dulzura",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 85.00,
+        "net_weight": 180.0
+      },
+      {
+        "name": "Jugo de guayaba",
+        "category": "jugos",
+        "age_group": "12-24",
+        "brand": "Tropical",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 42.00,
+        "net_weight": 220.0
+      },
+      {
+        "name": "Pollo de granja",
+        "category": "carnes",
+        "age_group": "12-24",
+        "brand": "Pollo Criollo",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 365.00,
+        "net_weight": 2800
+      },
+      {
+        "name": "Huevos frescos",
+        "category": "huevos",
+        "age_group": "12-24",
+        "brand": "Huevitos",
+        "unit": "unidad",
+        "origin": "nacional",
+        "price_cup": 12.50,
+        "net_weight": null
+      },
+      {
+        "name": "Frijoles negros estándar",
+        "category": "leguminosas",
+        "age_group": "12-24",
+        "brand": "Básico",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 70.00,
+        "net_weight": 400.0
+      },
+      {
+        "name": "Pañales premium",
+        "category": "pañales",
+        "age_group": "12-24",
+        "brand": "BabyConf",
+        "unit": "unidad",
+        "origin": "importado",
+        "price_cup": 28.00,
+        "net_weight": null
+      },
+      {
+        "name": "Toallitas húmedas",
+        "category": "limpieza",
+        "age_group": "12-24",
+        "brand": "SuaveBebé",
+        "unit": "unidad",
+        "origin": "importado",
+        "price_cup": 3.50,
+        "net_weight": null
+      },
+      {
+        "name": "Shampoo infantil",
+        "category": "capilar",
+        "age_group": "12-24",
+        "brand": "Johnson's",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 420.00,
+        "net_weight": 200.0
+      },
+      {
+        "name": "Jabón líquido para bebé",
+        "category": "corporal",
+        "age_group": "12-24",
+        "brand": "BabyDerm",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 350.00,
+        "net_weight": 250.0
+      },
+      {
+        "name": "Crema para pañalitis",
+        "category": "cuidados",
+        "age_group": "12-24",
+        "brand": "Destin",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 520.00,
+        "net_weight": 85.0
+      },
+      {
+        "name": "Cereal infantil",
+        "category": "cereales",
+        "age_group": "12-24",
+        "brand": "Nestum",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 180.00,
+        "net_weight": 200.0
+      }
+    ],
+    "evidence_path": "evidence/MP007.jpg"
+},
+
+{
+    "store_id": "MP008",
+    "name": "La Cuna Dorada",
+    "address": "Calle Vista Alegre #315 entre Patria y Santa Ana, Cerro",
+    "region": "La Habana",
+    "coordinates": {
+      "lat": 23.1241,
+      "lon": -82.3498
+    },
+    "store_type": "mipyme",
+    "currency": "CUP",
+    "distance_to_hospital_km": 0.4,
+    "collection_date": "2024-11-17",
+    "products": [
+      {
+        "name": "Compota de manzana y pera",
+        "category": "compotas",
+        "age_group": "12-24",
+        "brand": "BabyNat",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 112.00,
+        "net_weight": 110.0
+      },
+      {
+        "name": "Mermelada de mango",
+        "category": "mermeladas",
+        "age_group": "12-24",
+        "brand": "Frutas Selectas",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 92.00,
+        "net_weight": 190.0
+      },
+      {
+        "name": "Jugo de manzana",
+        "category": "jugos",
+        "age_group": "12-24",
+        "brand": "Zumito",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 48.00,
+        "net_weight": 210.0
+      },
+      {
+        "name": "Pollo criollo",
+        "category": "carnes",
+        "age_group": "12-24",
+        "brand": "Granja Natural",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 355.00,
+        "net_weight": 2800.00
+      },
+      {
+        "name": "Huevos de campo",
+        "category": "huevos",
+        "age_group": "12-24",
+        "brand": "Campo Fresco",
+        "unit": "unidad",
+        "origin": "nacional",
+        "price_cup": 13.00,
+        "net_weight": null
+      },
+      {
+        "name": "Frijoles negros premium",
+        "category": "leguminosas",
+        "age_group": "12-24",
+        "brand": "Selecto",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 78.00,
+        "net_weight": 450.0
+      },
+      {
+        "name": "Pañales ultra suaves",
+        "category": "pañales",
+        "age_group": "12-24",
+        "brand": "Pampers",
+        "unit": "unidad",
+        "origin": "importado",
+        "price_cup": 32.00,
+        "net_weight": null
+      },
+      {
+        "name": "Toallitas con aloe",
+        "category": "limpieza",
+        "age_group": "12-24",
+        "brand": "Huggies",
+        "unit": "unidad",
+        "origin": "importado",
+        "price_cup": 4.20,
+        "net_weight": null
+      },
+      {
+        "name": "Shampoo anticaspa infantil",
+        "category": "capilar",
+        "age_group": "12-24",
+        "brand": "Head & Shoulders",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 445.00,
+        "net_weight": 220.0
+      },
+      {
+        "name": "Jabón líquido antibacterial",
+        "category": "corporal",
+        "age_group": "12-24",
+        "brand": "Protex",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 375.00,
+        "net_weight": 280.0
+      },
+      {
+        "name": "Crema para dermatitis",
+        "category": "cuidados",
+        "age_group": "12-24",
+        "brand": "Mustela",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 540.00,
+        "net_weight": 90.0
+      },
+      {
+        "name": "Cereal de avena",
+        "category": "cereales",
+        "age_group": "12-24",
+        "brand": "Gerber",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 195.00,
+        "net_weight": 220.0
+      }
+    ],
+    "evidence_path": "evidence/MP008.jpg"
+  },
+
+  {
+    "store_id": "MP009",
+    "name": "El Mundo del Niño",
+    "address": "Calle Santa Ana #428 entre Mayía Rodríguez y Carlos III, Cerro",
+    "region": "La Habana",
+    "coordinates": {
+      "lat": 23.1268,
+      "lon": -82.3536
+    },
+    "store_type": "mipyme",
+    "currency": "CUP",
+    "distance_to_hospital_km": 0.6,
+    "collection_date": "2024-11-18",
+    "products": [
+      {
+        "name": "Compota multifruta",
+        "category": "compotas",
+        "age_group": "12-24",
+        "brand": "Mumi",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 300.00,
+        "net_weight": 115.0
+      },
+      {
+        "name": "Mermelada de fresa",
+        "category": "mermeladas",
+        "age_group": "12-24",
+        "brand": "BerrySweet",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 88.00,
+        "net_weight": 175.0
+      },
+      {
+        "name": "Jugo de piña",
+        "category": "jugos",
+        "age_group": "12-24",
+        "brand": "Tropical",
+        "unit": "ml",
+        "origin": "nacional",
+        "price_cup": 44.00,
+        "net_weight": 230.0
+      },
+      {
+        "name": "Pollo de corral",
+        "category": "carnes",
+        "age_group": "12-24",
+        "brand": "Avícola Selecta",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 2900.00,
+        "net_weight": 1.0
+      },
+      {
+        "name": "Huevos orgánicos",
+        "category": "huevos",
+        "age_group": "12-24",
+        "brand": "EcoHuevo",
+        "unit": "unidad",
+        "origin": "nacional",
+        "price_cup": 14.50,
+        "net_weight": null
+      },
+      {
+        "name": "Frijoles bayos",
+        "category": "leguminosas",
+        "age_group": "12-24",
+        "brand": "Granos Nobles",
+        "unit": "g",
+        "origin": "nacional",
+        "price_cup": 600.00,
+        "net_weight": 420.0
+      },
+      {
+        "name": "Pañales ecológicos",
+        "category": "pañales",
+        "age_group": "12-24",
+        "brand": "EcoBaby",
+        "unit": "unidad",
+        "origin": "importado",
+        "price_cup": 30.00,
+        "net_weight": null
+      },
+      {
+        "name": "Toallitas hipoalergénicas",
+        "category": "limpieza",
+        "age_group": "12-24",
+        "brand": "Johnson's",
+        "unit": "unidad",
+        "origin": "importado",
+        "price_cup": 3.80,
+        "net_weight": null
+      },
+      {
+        "name": "Shampoo para bebés",
+        "category": "capilar",
+        "age_group": "12-24",
+        "brand": "BabyShampoo",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 1000.00,
+        "net_weight": 210.0
+      },
+      {
+        "name": "Jabón líquido suave",
+        "category": "corporal",
+        "age_group": "12-24",
+        "brand": "Dove",
+        "unit": "ml",
+        "origin": "importado",
+        "price_cup": 360.00,
+        "net_weight": 260.0
+      },
+      {
+        "name": "Crema regeneradora",
+        "category": "cuidados",
+        "age_group": "12-24",
+        "brand": "Bepanthen",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 900.00,
+        "net_weight": 88.0
+      },
+      {
+        "name": "Cereal de trigo",
+        "category": "cereales",
+        "age_group": "12-24",
+        "brand": "Nestum",
+        "unit": "g",
+        "origin": "importado",
+        "price_cup": 2000.00,
+        "net_weight": 210.0
+      }
+    ],
+    "evidence_path": "evidence/MP009.jpg"
+  }
+]

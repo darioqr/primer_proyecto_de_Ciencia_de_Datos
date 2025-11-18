@@ -1,0 +1,17 @@
+{
+   
+    "compotas": {"cantidad": 1, "unit": "g", "volume_min": 100.0, "tipo": "pesable"},
+    "mermeladas": {"cantidad": 1, "unit": "g", "volume_min": 175.0, "tipo": "pesable"},
+    "jugos": {"cantidad": 1, "unit": "ml", "volume_min": 210.0, "tipo": "pesable"},
+    "carnes": {"cantidad": 1, "unit": "kg", "volume_min": 1.0, "tipo": "pesable"},
+    "leguminosas": {"cantidad": 1, "unit": "g", "volume_min": 400.0, "tipo": "pesable"},
+    "capilar": {"cantidad": 1, "unit": "ml", "volume_min": 200.0, "tipo": "pesable"},
+    "corporal": {"cantidad": 1, "unit": "ml", "volume_min": 250.0, "tipo": "pesable"},
+    "cuidados": {"cantidad": 1, "unit": "g", "volume_min": 85.0, "tipo": "pesable"},
+    "cereales": {"cantidad": 1, "unit": "g", "volume_min": 200.0, "tipo": "pesable"},
+    
+   
+    "huevos": {"cantidad": 7, "unit": "unidad", "tipo": "unitario"},
+    "pañales": {"cantidad": 30, "unit": "unidad", "tipo": "unitario"},
+    "limpieza": {"cantidad": 50, "unit": "unidad", "tipo": "unitario"}
+}
